@@ -1,0 +1,19 @@
+Hi!
+🌽 Im an agronomous engineer.
+💻 I work part time as a Front end developer.
+🖥 Actually im strudying Systems Analyst.
+
+Technologies:
+• Visual Studio Code
+• HTML
+• CSS
+• BOOTSTRAP
+• JS
+• REACT
+• REDUX
+• GIT
+• GITHUB
+
+I have done several projects and challenges personally and freelance (mainly with React JS). Courses on Platforms such as Youtube, Udemy, Platzi, Freecodecamp, Coderhouse, Codewars, among others. 
+
+🚀My main goal for 2022 is to work full time for an IT company or startup as a Frontend developer. 
