@@ -1,7 +1,7 @@
 Hi!
-🌽 Im an agronomous engineer.
 💻 I work part time as a Front end developer.
-🖥 Actually im strudying Systems Analyst.
+🖥 Actually Im studying Systems Analyst.
+🌽 Im an agronomous engineer.
 
 Technologies:
 • Visual Studio Code
