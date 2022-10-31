@@ -10,7 +10,6 @@ Technologies:
 • BOOTSTRAP
 • JS
 • REACT
-• REDUX
 • GIT
 • GITHUB
 
